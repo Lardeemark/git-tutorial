@@ -1,3 +1,3 @@
 console.log('index.js');
-console.log('version 5');
+console.log('version 11');
 console.log('modified index.js');
